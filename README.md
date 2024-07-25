@@ -5,7 +5,7 @@ Classification of brain tumors using MRI images based on pretrained models
  https://colab.research.google.com/drive/1DO4wjyUso5Vs2dsC33H53daku6dhlopH?usp=drive_link
  # Also, to access the resources and MRI images used, refer to the following link:
  https://www.kaggle.com/code/afsananadia/nadia-nova-brain-tumors-mri-project
- Dataset: https://www.kaggle.com/datasets/mohammadhossein77/brain-tumors-dataset/data
+ https://www.kaggle.com/datasets/mohammadhossein77/brain-tumors-dataset/data
 # Codes can be implemented in Python environment. It has been implemented in the Google Kolb environment for ease of work. Click on the link below to access the explanation video:
 https://drive.google.com/file/d/12ixo2xp9w8xvLChKWPm3TG2Tevn_eILa/view?usp=drive_link
 # Access files to the article are placed in both Word and PDF format:
