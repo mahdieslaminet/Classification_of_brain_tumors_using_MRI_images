@@ -10,9 +10,9 @@ Classification of brain tumors using MRI images based on pretrained models
 https://drive.google.com/file/d/12ixo2xp9w8xvLChKWPm3TG2Tevn_eILa/view?usp=drive_link
 # Access files to the new article are placed in both Word and PDF format:
 https://docs.google.com/document/d/1Hr0NZQf8wsab58wT7CMfuRQto7AkcXVT/edit?usp=drive_link&ouid=109646493304040581459&rtpof=true&sd=true
-https://drive.google.com/file/d/1UT-aCr0yyesFZuuqu6we7RqVFFwsG073/view?usp=drive_link
-# Access files to the original article:
 https://drive.google.com/file/d/115SWk-zPmNZpRQQAgPyLAew_5YfDQrzR/view?usp=drive_link
+# Access files to the original article:
+https://drive.google.com/file/d/1UT-aCr0yyesFZuuqu6we7RqVFFwsG073/view?usp=drive_link
 # Video reading of the original article:
 https://drive.google.com/file/d/1U_PyFSVB_YbFLAPK6NUQZv0hSWWE9SzV/view?usp=drive_link
 # Access to  plagiarism:
