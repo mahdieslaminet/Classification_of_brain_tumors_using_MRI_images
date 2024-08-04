@@ -17,3 +17,6 @@ https://drive.google.com/file/d/115SWk-zPmNZpRQQAgPyLAew_5YfDQrzR/view?usp=drive
 https://drive.google.com/file/d/1U_PyFSVB_YbFLAPK6NUQZv0hSWWE9SzV/view?usp=drive_link
 # Access to  plagiarism:
 https://drive.google.com/file/d/1AZvJ9txQNkHeSrHYveBnURegMh6QR1HN/view?usp=drive_link
+
+# my email: 
+romoozimahdieh@gmail.com
